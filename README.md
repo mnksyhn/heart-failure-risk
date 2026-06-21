@@ -67,3 +67,9 @@ Klinik Araştırma Koordinatörü (5+ yıl)
 İstatistiksel Danışman (10+ yıl)
 Veri Bilimi ve Makine Öğrenmesi
 
+🐍 Python
+🤖 Machine Learning
+❤️ Healthcare AI
+📊 SHAP Explainability
+🌐 Streamlit
+
