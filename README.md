@@ -1,4 +1,5 @@
 ❤️ Kalp Yetmezliği Risk ve Sağkalım Tahmin Sistemi
+
 📌 Proje Hakkında
 
 Bu proje, kalp yetmezliği hastalarında mortalite riskini tahmin etmek amacıyla geliştirilmiş bir makine öğrenmesi tabanlı klinik karar destek uygulamasıdır.
