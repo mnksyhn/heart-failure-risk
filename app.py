@@ -13,7 +13,7 @@ st.set_page_config(
 
 
 # Model yükleme
-model = joblib.load("C:/Users/team/OneDrive/Masaüstü/projelerim/proje_1/heart+failure+clinical+records/rf_final.pkl")
+model = joblib.load("model.pkl")
 
 st.title("❤️ Kalp Yetmezliği Risk Tahmin Sistemi")
 
