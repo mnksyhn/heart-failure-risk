@@ -49,9 +49,9 @@ Mortalite (DEATH_EVENT)
 
 ⚠️ Uyarı : Bu uygulama yalnızca eğitim ve araştırma amacıyla geliştirilmiştir. Klinik karar verme sürecinin yerine geçmez.
 
-## 📊 Sunum
+## 📎 Proje Sunumu
 
-Projeye ait detaylı sunuma aşağıdaki bağlantıdan ulaşabilirsiniz.
+Projenin amacı, kullanılan yöntemler, analiz süreci, elde edilen bulgular ve sonuçların ayrıntılı olarak açıklandığı sunuma aşağıdaki bağlantıdan ulaşabilirsiniz.
 
 🔗 Sunum: [Sunum Linki]
 
