@@ -46,18 +46,15 @@ Hedef değişken:
 
 Mortalite (DEATH_EVENT)
 
-📌 Proje Yapısı
-Heart-Failure-Risk/
-│
-├── app.py
-├── rf_model.pkl
-├── requirements.txt
-├── README.md
-├── images/
-│   └── app.png
-└── notebooks/
 
 ⚠️ Uyarı : Bu uygulama yalnızca eğitim ve araştırma amacıyla geliştirilmiştir. Klinik karar verme sürecinin yerine geçmez.
+
+## 📊 Sunum
+
+Projeye ait detaylı sunuma aşağıdaki bağlantıdan ulaşabilirsiniz.
+
+🔗 Sunum: [Sunum Linki]
+
 
 👩‍💻 Geliştirici
 
