@@ -53,7 +53,7 @@ Mortalite (DEATH_EVENT)
 
 Projenin amacı, kullanılan yöntemler, analiz süreci, elde edilen bulgular ve sonuçların ayrıntılı olarak açıklandığı sunuma aşağıdaki bağlantıdan ulaşabilirsiniz.
 
-🔗 Sunum: [Sunum Linki]
+🔗 Sunum: https://www.linkedin.com/posts/menekse-ayhan-b9b79617a_kalp-yetmezli%C4%9Finde-klinik-risk-ugcPost-7475287531664830464-vDEX/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACp5fCcBl9XvFCaI9lujzwJGi0yjJ2CC32E
 
 
 👩‍💻 Geliştirici
