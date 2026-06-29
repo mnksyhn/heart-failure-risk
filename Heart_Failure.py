@@ -1,5 +1,5 @@
 ################################################################
-# Clinical Risk & Survival Intelligence Platform
+# Clinical Risk Intelligence Platform
 ################################################################
 
 # İş Problemi
